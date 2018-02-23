@@ -1,0 +1,12 @@
+{
+  "name": "express-website-practice",
+  "version": "1.0.0",
+  "description": "Learning Express basics through the official Express website.",
+  "main": "index.js",
+  "author": "PudparK <p.barron@outlook.com>",
+  "license": "MIT",
+  "repository": "https://github.com/PudparK/express-website-practice.git",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
